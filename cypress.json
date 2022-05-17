@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://demo.nopcommerce.com",
+    
+    "env": {
+        "automationUrl": "http://automationpractice.com/index.php",
+        "navbarText": "Register"
+    }
+}
